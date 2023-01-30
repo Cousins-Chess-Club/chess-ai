@@ -6,11 +6,11 @@
 | Third Week | Initialization of model |
 | Forth Week | Finishing the model and testing |
 
-## Sprint A
-- [ ] Research about chess AI development and examples
-- [ ] Choosing the strategy
+## Sprint A (Done)
 
-## Sprint B
+## Sprint B (Current)
+- [ ] Research about chess AI development and examples ( Overdue from Sprint A )
+- [ ] Choosing the strategy ( Overdue from Sprint A )
 - [ ] Learning the API
 
 ## Sprint C
