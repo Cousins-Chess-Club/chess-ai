@@ -21,3 +21,4 @@
 # Resources
 - https://github.com/thomasahle/sunfish
 - https://towardsdatascience.com/train-your-own-chess-ai-66b9ca8d71e4
+- https://www.kaggle.com/code/arjanso/reinforcement-learning-chess-3-q-networks
