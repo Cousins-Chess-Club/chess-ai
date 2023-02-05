@@ -9,8 +9,8 @@
 ## Sprint A (Done)
 
 ## Sprint B (Current)
-- [ ] Research about chess AI development and examples ( Overdue from Sprint A )
-- [ ] Choosing the strategy ( Overdue from Sprint A )
+- [x] Research about chess AI development and examples ( Overdue from Sprint A )
+- [x] Choosing the strategy ( Overdue from Sprint A )
 - [ ] Learning the API
 
 ## Sprint C
